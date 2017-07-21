@@ -36,3 +36,19 @@ We need your help to develop a Machine Learning algorithm that, using this knowl
 **Tools to Learn:**
 - Natural Language Processing tools:
 - Support Vector Machines
+- [Word2Vec](https://code.google.com/archive/p/word2vec/)
+
+**Approach**
+DATA
+- Explore ways to process Natural Laugage?
+- Cross References? perhaps maybe later 
+
+SOFTWARE TOOLS
+- AWS
+
+DIMENSION REDUCTION
+- how to select relevant features
+
+MODEL
+- Different iterations of Random Forests
+- SVC
